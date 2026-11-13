@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SectionCreator.Core/SectionCreator.Core.csproj" />
+  <Project Path="SectionCreator/SectionCreator.csproj" Id="18a60f7e-2f89-4916-8d38-89a271a0c163" />
+  <Project Path="SectionCreator.Core.Tests/SectionCreator.Core.Tests.csproj" />
+</Solution>

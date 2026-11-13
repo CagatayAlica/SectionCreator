@@ -1,0 +1,10 @@
+[
+  {
+    "ElasticModulus": 210000,
+    "Name": "S350",
+    "PoissonRatio": 0.3,
+    "ShearModulus": 80769.230769230766,
+    "UltimateStress": 460,
+    "YieldStress": 350
+  }
+]
